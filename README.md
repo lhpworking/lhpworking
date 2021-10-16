@@ -1,6 +1,6 @@
 
 # Hi There 🙈!
-+ 👀 I’m interested in Front-End.
++ 👀 I’m interested in Front-End Develop.
 + 🌱 I’m currently learning HTML JS CSS and more.
 + 📫 How to reach me lhpworking@gmail.com
 
