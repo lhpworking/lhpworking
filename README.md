@@ -1,8 +1,8 @@
 
-👋 Hi, I’m Ly Hung Phat.
-👀 I’m interested in Front-End.
-🌱 I’m currently learning HTML JS CSS and more.
-📫 How to reach me lhpworking@gmail.com
+# Hi There 🙈!
++ 👀 I’m interested in Front-End.
++ 🌱 I’m currently learning HTML JS CSS and more.
++ 📫 How to reach me lhpworking@gmail.com
 
 <!---
 lhpworking/lhpworking is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
